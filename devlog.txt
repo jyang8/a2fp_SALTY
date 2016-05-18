@@ -1,0 +1,4 @@
+DEVLOG:
+
+2016-05-18:
+- Created repo and brainstormed ideas
