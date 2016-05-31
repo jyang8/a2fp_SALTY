@@ -1,4 +1,8 @@
 DEVLOG:
 
+2016-05-31:
+- Discussed plan and created plan20160531.txt
+- Talked to Mr. Brown about yellow status
+
 2016-05-18:
 - Created repo and brainstormed ideas
