@@ -1,1 +1,90 @@
 PLAN:
+
+core functionality:
+-traversing through priorityqueue
+-popping out unneeded answers
+-choosing questions to ask next, based on previous response
+
+extras:
+-the "don't know" option, go through both yes and no answers if one path doesn't result in the correct answer
+-using processing to make the program more visually attractive
+-allowing player to add their own answers to the program
+
+
+*Implementing the core functionality should be discussed within the group, the extras can be added on individually 
+after the foundational methods are put into place. 
+
+// NOTE: These diagrams are not all-encompassing, just a rough sketch
+
+
+public class Driver {
+
+//instance vars
+
+PriorityQueue<Character> posAnswers  //to be questioned
+
+PriorityQueue<Character> rejAnswers  // popped answers from posAnswers
+
+PriorityQueue<Character> idkAnswers //when user chooses don’t no (go down yes or no path and pop other answers here for future use)
+
+PriorityQueue<String> questions //remove question after it has been asked
+
+}
+
+
+public class Character implements Comparable { //eg PRESIDENT
+
+//instance vars examples
+
+boolean real;
+
+boolean male;
+
+boolean modern;
+
+boolean foughtWar;
+
+boolean scandal;
+
+String party;
+
+
+//methods
+
+Accessors for the variables
+
+int compareTo( Character c );
+
+}
+
+
+BACKEND:
+
+•Uses priority queues for prioritizing the questions the user gets
+
+
+•Uses comparable objects with a unique set of instance variables that distinguish the objects from one another
+
+
+•Answers → check if the instance var corresponding to the question is a specific value ( E.g. Is this person real or fake? || boolean real true; )
+
+
+
+FRONTEND:
+
+Processing for the display window
+
+•Shows clickable buttons (yes, no, don’t know)
+
+
+•Shows question (questions go from general to specific)
+
+
+•Shows mascot (Possibilities: Mr. Salt & Ms. Pepper, “Mud”, etc.)
+
+
+•Shows image of character that the program thinks the user is thinking of (finding an image on Google)
+
+
+•Ability to input correct responses and expand the database (when no correct answer is generated, give option to add answer)
+
