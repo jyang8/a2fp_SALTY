@@ -14,6 +14,11 @@ extras:
 *Implementing the core functionality should be discussed within the group, the extras can be added on individually 
 after the foundational methods are put into place. 
 
+TO DO:
+-make basic layout of all files
+-make the priorityqueue question-answer portion work
+-add in the extras
+
 // NOTE: These diagrams are not all-encompassing, just a rough sketch
 
 
