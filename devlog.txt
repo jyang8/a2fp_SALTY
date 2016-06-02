@@ -1,8 +1,17 @@
 DEVLOG:
 
-2016-05-31:
+2016-06-02:
+Lucy
+- Created simple, still needs to be editted files for Akinator and President
+Sadia, Lucy, Jessica
+- Listed possible questions for Presidents
+- Discussed how methods would be used
+
+2016-05-31: 
+Sadia, Lucy, Jessica 
 - Discussed plan and created plan20160531.txt
 - Talked to Mr. Brown about yellow status
 
-2016-05-18:
+2016-05-18: 
+Sadia, Lucy, Jessica
 - Created repo and brainstormed ideas
