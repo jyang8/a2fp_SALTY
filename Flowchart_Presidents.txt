@@ -1,0 +1,14 @@
+Presidents: (5/44)
+
+Is he dead?
+  Y: Did he die a natural death?
+    (To be continued...)
+  N: Did he serve in the military?
+    Y: Has he served 2 terms?
+      Y: Is he George W. Bush?
+      N: Does he have a relative who served as president?
+          Y: Is he George H. W. Bush?
+          N: Is he Jimmy Carter?
+    N: Did he ever have a scandal in his career?
+      Y: Is he Bill Clinton?
+      N: Is he Barack Obama?
