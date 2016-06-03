@@ -14,3 +14,19 @@ Y: Ulysses S. Grant, Warren Harding, Richard Nixon, Ronald Reagan, Bill Clinton
 Died in office?
 Y: William Henry Harrison, Zachary Taylor, Abraham Lincoln, James A. Garfield, William McKinley, Warren G. Harding, 
 Franklin D. Roosevelt, John F. Kennedy
+
+Impeached?
+Y: Andrew Johnson, Bill Clinton
+
+Served in military?
+
+Served during war?
+
+On coin?
+Y: Abraham Lincoln, Thomas Jefferson, FDR, George Washington, John F. Kennedy, Dwight Eisenhower, John Adams, James Madison,
+James Monroe, JOhn Quincy Adams, Andrew Jackson, Martin van Buren, William Harrison, John Tyler, James Polk, Zachary Taylor,
+Millard Fillmore, Franklin Pierce, James Buchanan
+
+On paper?
+Y: George Washington, THomas Jefferson, Abraham Lincoln, Andrew Jackson, Ulysses S. Grant, WIlliam McKinley, Grover Cleveland,
+James Madison, Woodrow Wilson
