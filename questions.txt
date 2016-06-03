@@ -19,8 +19,12 @@ Impeached?
 Y: Andrew Johnson, Bill Clinton
 
 Served in military?
+N: John Adams, John Quincy Adams, Martin Van Buren, Grover Cleveland, William Taft, Woodrow Wilson, Warren Harding, Calvin Coolidge, 
+Herbert Hoover, FDR, Bill Clinton, Barack Obama
 
-Served during war?
+Served during war(major)?
+Y: George Washington, James Madison, James Polk, Abraham Lincoln, William McKinley, Woodrow Wilson, FDR, Harry S. Truman, 
+Dwight Eisenhower, John F. Kennedy, Lyndon B. Johnson, Richard Nixon, George H. W. Bush, Barack Obama
 
 On coin?
 Y: Abraham Lincoln, Thomas Jefferson, FDR, George Washington, John F. Kennedy, Dwight Eisenhower, John Adams, James Madison,
@@ -30,3 +34,50 @@ Millard Fillmore, Franklin Pierce, James Buchanan
 On paper?
 Y: George Washington, THomas Jefferson, Abraham Lincoln, Andrew Jackson, Ulysses S. Grant, WIlliam McKinley, Grover Cleveland,
 James Madison, Woodrow Wilson
+
+Republican?
+Y: Abraham Lincoln, Ulysses S. Grant, Rutherford B. Hayes, James A. Garfield, Chester A. Arthur, Benjamin Harrison, William McKinley,
+TR, William Howard Taft, Warren G. Harding, Calvin Coolidge, Herbert Hoover, Dwight D. Eisenhower, Richard Nixon, Gerald Ford,
+Ronald Reagan, George H. W. Bush, George W. Bush
+
+Democratic?
+Y: Andrew Jackson, Martin Van Buren, James K. Polk, Franklin Pierce, James Buchanan, Andrew Johnson, Grover Cleveland1, 
+Grover Cleveland2, Woodrow Wilson, FDR, Harry S. Truman, John F. Kennedy, Lyndon B. Johnson, Jimmy Carter, Bill Clinton, Barack Obama
+
+Democratic-Republican?
+Y: Thomas Jefferson, James Madison, James Monroe, John Quincy Adams
+
+Whig?
+Y: William Henry Harrison, John Tyler, Zachary Taylor, Millard Fillmore
+
+Federalist?
+Y: John Adams
+
+Non-affiliated?
+Y: George Washington
+
+Founding father?
+Y: George Washington, John Adams, Thomas Jefferson, James Madison, James Monroe
+
+Was vice president before?
+Y: John Tyler, Millard Fillmore, Andrew Johnson, Chester A. Arthur, Theodore Roosevelt, Calvin Coolidge, Harry S. Truman, 
+Lyndon B. Johnson, Gerald Ford, John Adams, Thomas Jefferson, Martin Van Buren, George H. W. Bush, Richard Nixon
+
+Served non-consecutive terms?
+Y: Grover Cleveland
+
+Died of natural causes?
+Y: William Henry Harrison, Zachary Taylor, Warren G. Harding, FDR
+
+Resigned?
+Y: Richard Nixon 
+
+Served one term?
+Y: George H. W. Bush, Jimmy Carter, Gerald Ford, Herbert Hoover, William Howard Taft, Benjamin Harrison, Grover Cleveland, 
+Martin Van Buren, John Quincy Adams, John Adams
+
+Served more than two terms?
+Y: FDR
+
+Impeached?
+Y: Andrew Johnson, Bill Clinton
