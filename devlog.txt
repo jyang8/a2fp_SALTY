@@ -4,7 +4,7 @@ DEVLOG:
 Lucy
 - Created simple, still needs to be editted files for Akinator and President
 Sadia, Lucy, Jessica
-- Listed possible questions for Presidents
+- Listed possible questions for Presidents (flowchart)
 - Discussed how methods would be used
 
 2016-05-31: 
