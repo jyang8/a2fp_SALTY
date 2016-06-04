@@ -1,5 +1,10 @@
 DEVLOG:
 
+2016-06-03:
+Sadia, Lucy, Jessica
+- Looked up answers to questions about presidents 
+- New txt file created with the questions and answers
+
 2016-06-02:
 Lucy
 - Created simple, still needs to be editted files for Akinator and President
