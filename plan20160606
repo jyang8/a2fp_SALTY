@@ -1,0 +1,72 @@
+PLAN:
+
+core functionality:
+-traversing through priorityqueue
+-popping out unneeded answers
+-choosing questions to ask next, based on previous response
+
+extras:
+-the "don't know" option, go through both yes and no answers if one path doesn't result in the correct answer
+-using processing to make the program more visually attractive
+-allowing player to add their own answers to the program
+
+
+*Implementing the core functionality should be discussed within the group, the extras can be added on individually 
+after the foundational methods are put into place. 
+
+TO DO:
+-make basic layout of all files
+-make the priorityqueue question-answer portion work
+-add in the extras
+
+// NOTE: These diagrams are not all-encompassing, just a rough sketch
+
+TIMING:
+-work over weekend
+
+public class Akinator{
+    //instance vars
+    PriorityQueue<President> posAnswers, rejAnswers, idkAnswers;
+    PriorityQueue<String> questions;
+}
+
+
+public class President{
+    //instance vars
+    boolean dead, foughtWar, scandal, prezSib, naturalDeath,;
+    String party;
+    
+    //checks instance var against string question
+}
+
+
+BACKEND:
+
+•Uses priority queues for prioritizing the questions the user gets
+
+
+•Uses comparable objects with a unique set of instance variables that distinguish the objects from one another
+
+
+•Answers → check if the instance var corresponding to the question is a specific value ( E.g. Is this person real or fake? || boolean real true; )
+
+
+
+FRONTEND:
+
+Processing for the display window
+
+•Shows clickable buttons (yes, no, don’t know)
+
+
+•Shows question (questions go from general to specific)
+
+
+•Shows mascot (Possibilities: Mr. Salt & Ms. Pepper, “Mud”, etc.)
+
+
+•Shows image of character that the program thinks the user is thinking of (finding an image on Google)
+
+
+•Ability to input correct responses and expand the database (when no correct answer is generated, give option to add answer)
+
