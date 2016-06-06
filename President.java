@@ -37,4 +37,6 @@ nonConsec, naturalDeath, resign, oneTerm, twoPlus;
     public boolean getName() {return name;}
     public boolean getName() {return name;}
     public boolean getName() {return name;}
+    public boolean getName() {return name;}
+    public boolean getName() {return name;}
 }
