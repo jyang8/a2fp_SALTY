@@ -32,18 +32,9 @@ nonConsec, naturalDeath, resign, oneTerm, twoPlus;
 
     //accessors and mutators
     public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
-    public String getName() {return name;}
+    public String getParty() {return party;}
+    public boolean getName() {return name;}
+    public boolean getName() {return name;}
+    public boolean getName() {return name;}
+    public boolean getName() {return name;}
 }
