@@ -22,7 +22,7 @@ Served in military?
 N: John Adams, John Quincy Adams, Martin Van Buren, Grover Cleveland, William Taft, Woodrow Wilson, Warren Harding, Calvin Coolidge, 
 Herbert Hoover, FDR, Bill Clinton, Barack Obama
 
-Served during war(major)?
+President during war(major)?
 Y: George Washington, James Madison, James Polk, Abraham Lincoln, William McKinley, Woodrow Wilson, FDR, Harry S. Truman, 
 Dwight Eisenhower, John F. Kennedy, Lyndon B. Johnson, Richard Nixon, George H. W. Bush, Barack Obama
 
