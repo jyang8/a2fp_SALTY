@@ -1,5 +1,5 @@
 public class Akinator{
     //instance vars
     PriorityQueue<President> posAnswers, rejAnswers, idkAnswers;
-    PriorityQueue<String> questions;
+    PriorityQueue<String> questions, idkQuestions;
 }
