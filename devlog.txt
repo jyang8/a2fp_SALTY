@@ -1,5 +1,17 @@
 DEVLOG:
 
+2016-06-07:
+Lucy, Jessica
+- Worked on Akinator
+
+2016-06-06:
+Sadia, Lucy, Jessica
+- Worked on President
+
+2016-06-05:
+Sadia, Lucy, Jessica
+- Created new plan
+
 2016-06-03:
 Sadia, Lucy, Jessica
 - Looked up answers to questions about presidents 
@@ -7,7 +19,7 @@ Sadia, Lucy, Jessica
 
 2016-06-02:
 Lucy
-- Created simple, still needs to be editted files for Akinator and President
+- Created simple, still needs to be edited files for Akinator and President
 Sadia, Lucy, Jessica
 - Listed possible questions for Presidents (flowchart)
 - Discussed how methods would be used
