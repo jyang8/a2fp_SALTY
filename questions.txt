@@ -6,7 +6,7 @@ Y: Abraham Lincoln, James A. Garfield, William McKinley, John F. Kennedy
 
 3. Relatives serve in office?
 Y: John Quincy Adams and John Adams, Benjamin Harrison and William Harrison, James Madison and Zachary Taylor, FDR and TR, 
-ush1 and Bush2
+ush1 and Bush2, also Ulysses Grant, William Howard Taft, Martin Van Buren, and George Washington
 
 4. Scandals?
 Y: Ulysses S. Grant, Warren Harding, Richard Nixon, Ronald Reagan, Bill Clinton
@@ -38,7 +38,7 @@ Y: Abraham Lincoln, Ulysses S. Grant, Rutherford B. Hayes, James A. Garfield, Ch
 
 12. Democratic?
 Y: Andrew Jackson, Martin Van Buren, James K. Polk, Franklin Pierce, James Buchanan, Andrew Johnson, Grover Cleveland1, 
-Grover Cleveland2, Woodrow Wilson, FDR, Harry S. Truman, John F. Kennedy, Lyndon B. Johnson, Jimmy Carter, Bill Clinton, Barack Obama
+Grover Cleveland2, Woodrow Wilson, FDR, Harry S. Truman, John F. Kennedy, Lyndon B. Johnson, Jimmy Carter,  Bill Clinton, Barack Obama
 
 13. Democratic-Republican?
 Y: Thomas Jefferson, James Madison, James Monroe, John Quincy Adams
