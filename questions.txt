@@ -19,7 +19,8 @@ Franklin D. Roosevelt, John F. Kennedy
 Y: Andrew Johnson, Bill Clinton
 
 7. Served in military?
-N: John Adams, John Quincy Adams, Martin Van Buren, Grover Cleveland, William Taft, Woodrow Wilson, Warren Harding, Calvin Coolidge, Herbert Hoover, FDR, Bill Clinton, Barack Obama
+N: John Adams, John Quincy Adams, Martin Van Buren, Grover Cleveland, William Taft, Woodrow Wilson, Warren Harding, Calvin
+Coolidge, Herbert Hoover, FDR, Bill Clinton, Barack Obama
 
 8. President during war(major)?
 Y: George Washington, James Madison, James Polk, Abraham Lincoln, William McKinley, Woodrow Wilson, FDR, Harry S. Truman, 
@@ -31,14 +32,18 @@ James Monroe, JOhn Quincy Adams, Andrew Jackson, Martin van Buren, William Harri
 Taylor, Millard Fillmore, Franklin Pierce, James Buchanan
 
 10. On paper?
-Y: George Washington, THomas Jefferson, Abraham Lincoln, Andrew Jackson, Ulysses S. Grant, WIlliam McKinley, Grover Cleveland, James Madison, Woodrow Wilson
+Y: George Washington, THomas Jefferson, Abraham Lincoln, Andrew Jackson, Ulysses S. Grant, WIlliam McKinley, Grover 
+Cleveland, James Madison, Woodrow Wilson
 
 11. Republican?
-Y: Abraham Lincoln, Ulysses S. Grant, Rutherford B. Hayes, James A. Garfield, Chester A. Arthur, Benjamin Harrison, William McKinley, TR, William Howard Taft, Warren G. Harding, Calvin Coolidge, Herbert Hoover, Dwight D. Eisenhower, Richard Nixon, Gerald Ford, Ronald Reagan, George H. W. Bush, George W. Bush
+Y: Abraham Lincoln, Ulysses S. Grant, Rutherford B. Hayes, James A. Garfield, Chester A. Arthur, Benjamin Harrison, William
+McKinley, TR, William Howard Taft, Warren G. Harding, Calvin Coolidge, Herbert Hoover, Dwight D. Eisenhower, Richard Nixon,
+Gerald Ford, Ronald Reagan, George H. W. Bush, George W. Bush
 
 12. Democratic?
 Y: Andrew Jackson, Martin Van Buren, James K. Polk, Franklin Pierce, James Buchanan, Andrew Johnson, Grover Cleveland1, 
-Grover Cleveland2, Woodrow Wilson, FDR, Harry S. Truman, John F. Kennedy, Lyndon B. Johnson, Jimmy Carter,  Bill Clinton, Barack Obama
+Grover Cleveland2, Woodrow Wilson, FDR, Harry S. Truman, John F. Kennedy, Lyndon B. Johnson, Jimmy Carter,  Bill Clinton,
+Barack Obama
 
 13. Democratic-Republican?
 Y: Thomas Jefferson, James Madison, James Monroe, John Quincy Adams
