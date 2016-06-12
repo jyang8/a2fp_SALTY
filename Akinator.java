@@ -5,6 +5,7 @@ public class Akinator{
     
     public Akinator() 
     {
+        create();
     }
     
     /*
@@ -58,5 +59,13 @@ public class Akinator{
         President BillClinton = new President("Bill Clinton", "Democratic", false, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false, false);
         President GeorgeWBush = new President("George W. Bush", "Republican", false, false, true, false, false, false, true, false, false, false, false, false, false, false, false, false, false);
         President BarackObama = new President("Barack Obama", "Democratic", false, false, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false);
+    }
+    
+    public static void play(){
+        Akinator a = new Akinator();
+    }
+    
+    public static void main(String[] args){
+        play();
     }
 }
