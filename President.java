@@ -1,4 +1,4 @@
-public class President{
+public class President implements Comparable<President>{
     //instance vars
     boolean dead, assassinated, prezRel, scandal, ripOffice, impeached, served, prezWar, onCoin, onPaper, founder, vp, 
 nonConsec, naturalDeath, resign, oneTerm, twoPlus;
@@ -29,6 +29,16 @@ nonConsec, naturalDeath, resign, oneTerm, twoPlus;
         this.oneTerm = oneTerm;
         this.twoPlus = twoPlus;
     }
+    
+    public int compareTo(President other) 
+    {
+        if (this.equals(other))
+            return 0;
+        else if (getName().compareTo(other.getName()) > 0)
+            return 1;
+        else
+            return -1;
+    }
 
     //accessors 
     public String getName() {return name;}
@@ -36,6 +46,7 @@ nonConsec, naturalDeath, resign, oneTerm, twoPlus;
     public boolean getDead() {return dead;}
     public boolean getAssassinated() {return assassinated;}
     public boolean getPrezRel() {return prezRel;}
+    public boolean getScandal() {return scandal;}
     public boolean getRipOffice() {return ripOffice;}
     public boolean getImpeached() {return impeached;}
     public boolean getServed() {return served;}
